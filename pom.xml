@@ -21,7 +21,7 @@
     </build>
 
     <properties>
-        <spring.ver>5.1.5.RELEASE</spring.ver>
+        <spring.ver>5.3.18</spring.ver>
         <hibernate.ver>5.4.1.Final</hibernate.ver>
     </properties>
 
